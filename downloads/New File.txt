@@ -1,2 +1,1 @@
-amzn1.devportal.mobileapp.87a335c6eda14c8eb7e466b052bb6707
-amzn1.devportal.apprelease.38d837f76ce743f482cf2698b933f217
+hi
